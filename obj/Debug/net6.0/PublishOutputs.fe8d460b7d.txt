@@ -1,0 +1,11 @@
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\catalogue.exe
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\catalogue.dll
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\catalogue.deps.json
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\catalogue.runtimeconfig.json
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\catalogue.pdb
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alar Laanep\Projects\catalogue\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
