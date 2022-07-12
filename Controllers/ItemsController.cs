@@ -13,9 +13,12 @@ namespace Catalogue.Controllers{
         }
 
         [HttpGet]
-        public IEnumerable<Item> GetItems(){
-            var items = repo.GetItems();
-            return items;
+        public IEnumerable<Item> GetItems(){ 
+            return repo.GetItems();
+        }
+        [HttpGet("{id}")]
+        public Item GetItem(Guid id){
+            return repo.GetItem(id);
         }
 
     }
