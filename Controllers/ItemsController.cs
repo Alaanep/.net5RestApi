@@ -8,14 +8,17 @@ namespace Catalogue.Controllers{
     [Route("items")]
     public class ItemsController: ControllerBase{
         private readonly IItemsRepo repo;
+        private readonly ILogger<ItemsController>logger;
 
-        public ItemsController(IItemsRepo repo){
+        public ItemsController(IItemsRepo repo, ILogger<ItemsController>logger){
             this.repo = repo;
+            this.logger=logger;
         }
 
         [HttpGet]
         public async Task<IEnumerable<ItemDto>> GetItemsAsync(){ 
             var items = (await repo.GetItemsAsync()).Select(item => item.AsDto());
+            logger.LogInformation($"{DateTime.UtcNow.ToString("hh:mm:ss")}: Retrieved{items.Count()} items.");
             return items;
         }
         [HttpGet("{id}")]
