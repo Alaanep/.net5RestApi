@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj": {}
+    "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj": {
+    "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj",
         "projectName": "catalogue.Api",
-        "projectPath": "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj",
+        "projectPath": "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj",
         "packagesPath": "C:\\Users\\Alar Laanep\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\obj\\",
+        "outputPath": "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alar Laanep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj": {
+    "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj",
         "projectName": "Catalogue.UnitTests",
-        "projectPath": "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj",
+        "projectPath": "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\Catalogue.UnitTests.csproj",
         "packagesPath": "C:\\Users\\Alar Laanep\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alar Laanep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj": {
-                "projectPath": "c:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj"
+              "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj": {
+                "projectPath": "C:\\Users\\Alar Laanep\\Projects\\catalogue\\Catalogue.Api\\catalogue.Api.csproj"
               }
             }
           }
